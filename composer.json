@@ -1,0 +1,13 @@
+{
+    "name": "rthrcrsn/php",
+    "require": {
+        "php": "^8.0",
+        "mongodb/mongodb": "^1.8"
+    },
+    "authors": [
+        {
+            "name": "Arthur Carson",
+            "email": "rthrcrsn@gmail.com"
+        }
+    ]
+}
